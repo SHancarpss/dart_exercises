@@ -1,0 +1,6 @@
+Item: Wireless Mouse
+Quantity: 3
+Unit Price: $15.5
+Subtotal: $46.5
+Discount Applied: true
+Qualifies for Free Shipping? true
