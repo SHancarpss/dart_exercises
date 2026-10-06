@@ -9,4 +9,4 @@ A store purchase calculation that computes the total price for an item based on 
 ### How to Run
 To run the program, execute the following command in the terminal:
 ```bash
-dart run
+
